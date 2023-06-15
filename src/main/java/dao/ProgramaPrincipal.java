@@ -29,7 +29,7 @@ public class ProgramaPrincipal {
 
         List<MuebleVO> lista = new ArrayList<>();
 
-        lista.add(new MuebleVO("C4", "Mesa comedor", 1, 2, 3));
+        lista.add(new MuebleVO("C4", "Mesa comedora", 1, 2, 3));
         lista.add(new MuebleVO("C5", "Mesa cocina", 3, 1, 2.2));
         lista.add(new MuebleVO("C6", "Mesa terraza", 3, 3, 3));
         lista.add(new MuebleVO("S1", "Silla madera", 0.5, 2, 3.3));
